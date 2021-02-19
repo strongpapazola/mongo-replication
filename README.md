@@ -1,4 +1,4 @@
-#Mongo Replication
+# Mongo Replication
 - Enable mongo 3 replication inside docker container and host datastore 
 - Usage Create :
 <pre>./mongorepl.sh create
